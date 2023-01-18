@@ -1,0 +1,24 @@
+*		text=auto
+
+# batch files
+
+*.sh		text eol=lf
+*.bat		text eol=crlf
+
+
+# Documents
+
+*.md		text
+*.csv		text
+*.sql		text
+*.py        text
+Dockerfile text
+
+
+# Program files / Libraries
+
+*.properties	text
+*.txt		text
+*.xml		text
+*.yml   text
+
